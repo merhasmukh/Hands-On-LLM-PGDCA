@@ -1,0 +1,5 @@
+PGDCA Course Structure and Units:
+Unit 1 covers Python ecosystem, environments, variables, data structures, and APIs.
+Unit 2 covers Advanced APIs, parameter tunings, concurrency, rate limits, and cost calculation models.
+Unit 3 covers LLM Frameworks, LangChain chains, memories, LlamaIndex documents search, and vector stores.
+Unit 4 covers local LLM runtimes, Ollama, model quantizations, and deploying final systems.

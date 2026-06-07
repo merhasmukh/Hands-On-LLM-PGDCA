@@ -1,0 +1,6 @@
+Store: QuickMart Store #44
+Date: 2026-06-02
+Items:
+  1x Notebook - $3.50
+  2x Pens - $2.00
+Total: $5.50

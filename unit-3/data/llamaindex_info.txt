@@ -1,0 +1,2 @@
+LlamaIndex is a data framework for LLM applications to connect private datasets.
+It enables loading data via SimpleDirectoryReader, parsing documents into Nodes, indexing them inside a VectorStoreIndex, and querying them using a Query Engine.
