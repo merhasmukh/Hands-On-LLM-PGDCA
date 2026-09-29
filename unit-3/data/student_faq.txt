@@ -1,0 +1,3 @@
+FAQ 1: The PGDCA practical examination carries 40 marks and theory carries 60 marks.
+FAQ 2: Students must submit all unit lab notebooks before the final practical check.
+FAQ 3: The minimum passing grade for each unit practical evaluation is 50%.
